@@ -1,7 +1,7 @@
 {
   "name": "lambda-send-email",
   "version": "1.0.0",
-  "description": "Lambda para enviar e-mail com PDF do S3 via Gmail SMTP",
+  "description": "Lambda para enviar e-mail com PDF via Gmail SMTP",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No tests yet\""
