@@ -5,6 +5,18 @@ Você pode acionar a Lambda passando um PDF (em base64) ou uma URL para o PDF.
 
 ---
 
+## Tecnologias Utilizadas
+
+- **Node.js** – Ambiente de execução JavaScript
+- **AWS Lambda** – Execução serverless do código
+- **Nodemailer** – Envio de e-mails via SMTP
+- **dotenv** – Gerenciamento de variáveis de ambiente
+- **Gmail SMTP** – Provedor de envio de e-mails
+- **AWS CLI** – Ferramenta de linha de comando para AWS
+- **GitHub Actions** – Deploy automatizado
+
+---
+
 ## O que você vai precisar
 
 - Conta na [AWS](https://aws.amazon.com/)
